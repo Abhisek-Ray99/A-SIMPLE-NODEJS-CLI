@@ -1,0 +1,16 @@
+{
+  "name": "todos-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "author": "abhisek",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "nodemon": "^2.0.6",
+    "yargs": "^16.2.0"
+  }
+}
